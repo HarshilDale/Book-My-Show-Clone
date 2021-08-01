@@ -50,14 +50,14 @@ const HomePage = () => {
         alt="middle image" 
         width="w-full h-full" />
           </div>
-          <div className="container mx-auto px-8 my-2">
+          <div className="container mx-auto px-7 my-2">
           <h1 className="text-2xl font-bold text-gray-800 my-3">
             The best of Entertainment
           </h1>
           <EntertainmentCardSlider />
           </div>
           <div className="bg-harshilcolor-700 py-12 ">
-            <div className="container mx-auto px-4 flex flex-col mx-auto gap-3">
+            <div className="container mx-auto px-4 flex flex-col gap-3">
           <div className="hidden md:flex">
             <div className="">
               <img src="https://in.bmscdn.com/discovery-catalog/collections/tr:w-1440,h-120/premiere-rupay-banner-web-collection-202104230555.png" 
